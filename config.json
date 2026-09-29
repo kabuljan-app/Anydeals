@@ -1,0 +1,33 @@
+{
+  "siteName": "Daily Finds",
+  "marketplace": "www.amazon.com",
+  "maxProducts": 400,
+  "itemsPerSearch": 10,
+  "pagesPerKeyword": 1,
+  "categories": [
+    {
+      "name": "Electronics",
+      "searchIndex": "Electronics",
+      "keywords": ["wireless earbuds", "portable charger"],
+      "asins": []
+    },
+    {
+      "name": "Home & Kitchen",
+      "searchIndex": "HomeAndKitchen",
+      "keywords": ["air fryer", "coffee maker"],
+      "asins": []
+    },
+    {
+      "name": "Toys & Games",
+      "searchIndex": "ToysAndGames",
+      "keywords": ["building toys", "board games"],
+      "asins": []
+    },
+    {
+      "name": "Beauty",
+      "searchIndex": "Beauty",
+      "keywords": ["skin care set"],
+      "asins": []
+    }
+  ]
+}
